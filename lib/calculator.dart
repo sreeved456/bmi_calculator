@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Calculatorrr extends StatefulWidget {
-  @override
-  State<Calculatorrr> createState() => _CalculatorrrState();
-}
-
-class _CalculatorrrState extends State<Calculatorrr> {
+class Calculatorrr extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
